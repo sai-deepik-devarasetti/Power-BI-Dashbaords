@@ -81,8 +81,7 @@ For feedback, collaboration, or opportunities, feel free to connect with me on:
 
 - **LinkedIn:** https://www.linkedin.com/in/saideepikdevarasetti
 
----
-
+  
 - **GitHub** – Version control and documentation
 
 ---
