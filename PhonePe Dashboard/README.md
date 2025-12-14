@@ -84,6 +84,3 @@ The dashboard is designed to support **data-driven decision-making** by identify
 ## **Author**
 **Sai Deepik Devarasetti**  
 Data Analyst
-
-
-## Repository Structure
