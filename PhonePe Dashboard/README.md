@@ -65,15 +65,6 @@ The dashboard is designed to support **data-driven decision-making** by identify
 
 ---
 
-PhonePe-PowerBI-Dashboard/
-│
-├── snapshots/ # Dashboard previews
-├── dataset/ # Source data (CSV / Excel)
-├── PhonePe.pbix # Power BI report file
-└── README.md
-
----
-
 ## Key Outcomes
 - Built a multi-page enterprise-level BI dashboard
 - Implemented KPI-driven analysis using DAX
@@ -90,8 +81,9 @@ PhonePe-PowerBI-Dashboard/
 
 ---
 
-## Dashboard Preview
-Refer to the **snapshots** folder for dashboard visuals.
+## **Author**
+**Sai Deepik Devarasetti**  
+Data Analyst
 
 
 ## Repository Structure
