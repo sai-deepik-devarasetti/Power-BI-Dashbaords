@@ -74,8 +74,7 @@ The primary goal of this dashboard is to:
 - Advanced DAX performance metrics
 
 ## Author
-**Deepak Devarasetti**  
-Aspiring Data Analyst  
-Skilled in SQL, Power BI, Excel, Power Query, Power Pivot, and Data Visualization
+**Sai Deepik Devarasetti**  
+Data Analyst
 
 ---
